@@ -15,7 +15,7 @@ function equal() {
     document.form.textview.value = eval(sum);
   }
 }
-function clear() {
+function clean() {
   document.form.textview.value = "";
 }
 function back() {
